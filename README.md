@@ -77,7 +77,7 @@ Reference: [The Ultimate Guide for Using ChatGPT for English Learning](https://h
 会話を入力した後に使用する。
 
 ---
-## ✏️書くこと
+## ✏️ 書くこと
 ### 文章の添削
 Reference: [The Ultimate Guide for Using ChatGPT for English Learning](https://hadarshemesh.com/magazine/chatgpt-for-learning-english/)
 > Correct my grammar mistakes in the following text [add text];
