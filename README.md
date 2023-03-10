@@ -6,7 +6,7 @@
 もしこの他にも良い活用例がありましたら、直接このREADME.mdを編集してご教示いただければ幸いです。
 
 ---
-## 💡授業準備
+## 💡 授業準備
 ### 文法問題を作成
 Reference: [【中学校・高校】英語科教員のためのChat GPTを使った授業準備改革 〜６つの活用方法〜  草食系高校教師のブログ](https://mzsmtks.com/2023/03/10/chatgpt/)
 > 10 grammar questions to learn the subjunctive mood for junior high school students in Japan;
@@ -20,7 +20,7 @@ Reference: [shigepong / Twitter](https://twitter.com/shigepong/status/1632227735
 > List words with similar meanings to desire, want and the differences in these nuances in a table.;
 
 ---
-## 📕読むこと
+## 📕 読むこと
 ### 教科書本文の難易度を下げる
 > Please rewrite the essay so that children can understand.;
  
@@ -52,13 +52,13 @@ Reference: [ChatGPTの英語教育への活用（Yu Tamura） - Speaker Deck](ht
 要約に元の文章の大事な部分が含まれないことがあり、「要約課題のモデル」として提示するのは危険。
 
 ---
-## 👂聞くこと
+## 👂 聞くこと
 ### 特定の文法事項を使った洋楽を提示
 Reference: [【中学校・高校】英語科教員のためのChat GPTを使った授業準備改革 〜６つの活用方法〜  草食系高校教師のブログ](https://mzsmtks.com/2023/03/10/chatgpt/)
 > Tell me some music that uses the subjunctive in the lyrics.;
 
 ---
-## 👄話すこと
+## 👄 話すこと
 ### 議論のテーマの提案
 Reference: [The Ultimate Guide for Using ChatGPT for English Learning](https://hadarshemesh.com/magazine/chatgpt-for-learning-english/)
 > Suggest 10 controversial topics to discuss;
